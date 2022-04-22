@@ -1,0 +1,24 @@
+* {
+    background-color: rgb(144, 175, 57);
+}
+h1 {
+    color: rgb(26, 10, 31);
+    font-size: 35px;
+}
+img {
+    height: auto;
+    width: 300px;  
+}
+h3 {
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+h4 {
+   font-size: 20px; 
+   font-weight: bold;
+   text-decoration: underline;
+}
+.lists {
+    font-style: italic;
+}
